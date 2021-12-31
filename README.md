@@ -9,5 +9,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: sou Brazilian
 
-
+![RonaldoConsolo GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoconsolo&show_icons=true&theme=blue-green)
         
