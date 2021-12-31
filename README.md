@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I'm Brazilian
 
 ![RonaldoConsolo GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoconsolo&show_icons=true&theme=blue-green)
-
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoconsolo&layout=compact&langs_count=7&theme=blue-green"/>
         
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ronaldoconsolo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](@Ronaldoconsolo)
