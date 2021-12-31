@@ -3,11 +3,11 @@
 - 🔭 I’m currently working on learn everything I can
 - 🌱 I’m currently learning to code 
 - 👯 I’m looking to collaborate on anything to help me learn
-- 🤔 I’m looking for help with medical science 
-- 💬 Ask me about clinical lab for now
-- 📫 How to reach me: ronaldoconsolo@gmail.com
+- 🤔 I’m looking for add a new skill to my resumé 
+- 💬 Ask me about clinical lab for now but it will change soon
+- 📫 How to reach me: through all my social media
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: sou Brazilian
+- ⚡ Fun fact: I'm Brazilian
 
 ![RonaldoConsolo GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoconsolo&show_icons=true&theme=blue-green)
 
