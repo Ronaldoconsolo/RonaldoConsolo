@@ -7,8 +7,7 @@
 - 💬 Ask me about clinical lab for now but it will change soon
 - 📫 How to reach me: through all my social media
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm Brazilian
-
+- ⚡ Fun fact: winner of pizza eating contest in college 5 years straight up  
 ![RonaldoConsolo GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoconsolo&show_icons=true&theme=blue-green)
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoconsolo&layout=compact&langs_count=7&theme=blue-green"/>
         
