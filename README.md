@@ -48,3 +48,26 @@ Entre na pasta e rode:
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D2?style=for-the-badge&logo=kotlin&logoColor=white" />
 </div>
+
+---
+## 📊 Exemplos
+
+### Saída em texto
+```bash
+Digite os números que deseja ver a tabuada: 2 5 7
+
+Tabuada do 2:
+2 x 1 = 2
+2 x 2 = 4
+...
+
+Tabuada do 5:
+5 x 1 = 5
+5 x 2 = 10
+...
+
+Tabuada do 7:
+7 x 1 = 7
+7 x 2 = 14
+...
+![alt text](image.png)
