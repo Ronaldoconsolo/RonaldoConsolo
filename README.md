@@ -70,4 +70,5 @@ Tabuada do 7:
 7 x 1 = 7
 7 x 2 = 14
 ...
-![Tabuada rodando](img/tabuada5.png)
+![Tabuada rodando](img/image.png)
+
