@@ -9,7 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ **Fun fact:** winner of pizza eating contest in college 5 years straight up
 
-⚡ **Fun fact:** winner of pizza eating contest in college 5 years straight up
 
 ---
 
