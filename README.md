@@ -8,7 +8,7 @@
 - 📫 How to reach me: through all my social media
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: winner of pizza eating contest in college 5 years straight up  
-![RonaldoConsolo GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoconsolo&show_icons=true&theme=blue-green)
+![Estatísticas do GitHub](https://vercel.app)
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoconsolo&layout=compact&langs_count=7&theme=blue-green"/>
         
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ronaldoconsolo@gmail.com)
