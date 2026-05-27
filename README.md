@@ -9,10 +9,17 @@
 - 😄 Pronouns: he/him
 - ⚡ **Fun fact:** winner of pizza eating contest in college 5 years straight up
 
-<p align="left">
-  <img src="https://vercel.app" alt="Ronaldo Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Langs" height="180" />
-</p>
+⚡ **Fun fact:** winner of pizza eating contest in college 5 years straight up
+
+---
+
+📊 **Estatísticas de Código (Python & Automações):**
+* 🟩 **Commits Totais:** Atualizados automaticamente nos repositórios
+* 🚀 **Foco Principal:** Desenvolvimento de Scripts, Web Scraping e Bots
+* 🛠️ **Ambiente:** VS Code | Git | GitHub 
+
+---
+
 
 <br>
 
