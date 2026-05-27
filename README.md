@@ -7,9 +7,15 @@
 - 💬 Ask me about clinical lab for now but it will change soon
 - 📫 How to reach me: through all my social media
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: winner of pizza eating contest in college 5 years straight up  
-![Estatísticas do GitHub](https://vercel.app)
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoconsolo&layout=compact&langs_count=7&theme=blue-green"/>
+- ⚡ **Fun fact:** winner of pizza eating contest in college 5 years straight up
+
+<p align="left">
+  <img src="https://vercel.app" alt="Ronaldo Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Langs" height="180" />
+</p>
+
+<br>
+
         
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ronaldoconsolo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](@Ronaldoconsolo)
