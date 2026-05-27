@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on learn everything I can
 - 🌱 I’m currently learning to code 
 - 👯 I’m looking to collaborate on anything to help me learn
-- 🤔 I’m looking for add a new skill to my resumé 
+- 🤔 I’m looking to add new skills to my resume 
 - 💬 Ask me about clinical lab for now but it will change soon
 - 📫 How to reach me: through all my social media
 - 😄 Pronouns: he/him
