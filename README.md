@@ -12,10 +12,11 @@
 
 ---
 
-📊 **Estatísticas de Código (Python & Automações):**
-* 🟩 **Commits Totais:** Atualizados automaticamente nos repositórios
-* 🚀 **Foco Principal:** Desenvolvimento de Scripts, Web Scraping e Bots
-* 🛠️ **Ambiente:** VS Code | Git | GitHub 
+📊 Estatísticas de Código (Python & Automações):
+🟩 Commits Totais: Atualizados automaticamente nos repositórios
+🚀 Foco Principal: Desenvolvimento de Scripts, Web Scraping e Bots
+🤖 Estudos em IA: Modelagem com IA Generativa, Workflows no ComfyUI e Notebooks Colab
+🛠️ Ambiente: VS Code | Git | GitHub | Google Colab 
 
 ---
 
